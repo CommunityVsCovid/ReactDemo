@@ -1,3 +1,19 @@
+Steps for doing this:
+======================
+	1) Download Node  - https://nodejs.org/en/
+	2) Download Visual studio Code https://code.visualstudio.com/
+	3) Clone from https://github.com/CommunityVsCovid/ReactDemo.git
+	4) Open CMD, do "node -v"  - Should be able to see version number. If not re install node.
+	5) Open CMD from the location where repo is cloned.
+	6) Enter "npm install"
+	7) Enter "npm start"
+	8) Application starts running on chrome.
+
+
+
+
+Default README:
+==============
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
