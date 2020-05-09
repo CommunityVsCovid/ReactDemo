@@ -1,0 +1,7 @@
+.joyfull{
+    color:Blue;    
+    background-color:pink;
+}
+.joyfull:hover{
+    color: red;
+}
