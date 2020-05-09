@@ -11,7 +11,7 @@ Steps for doing this:
 
 Snap Before Click:
 -------
-<img src="/CommunityVsCovid/ReactDemo/blob/master/AfterClick.png?raw=true" width="300">
+<img src="./BeforeClick.png" width="300">
 
 Snap After Click:
 ----------
