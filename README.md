@@ -9,7 +9,13 @@ Steps for doing this:
 	7) Enter "npm start"
 	8) Application starts running on chrome.
 
+Snap Before Click:
+-------
+<img src="./BeforeClick.png" width="300">
 
+Snap After Click:
+----------
+<img src="./AfterClick.png" width="300">
 
 
 Default README:
